@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-15T21:23:25 IST" name="Surefire suite" finished-at="2023-12-15T21:24:19 IST" duration-ms="53730">
+    <groups>
+    </groups>
+    <test started-at="2023-12-15T21:23:25 IST" name="Surefire test" finished-at="2023-12-15T21:24:19 IST" duration-ms="53730">
+      <class name="com.SDET.programs.SDETAllProgramsinMaven.TestNGConcepts">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.SDET.programs.SDETAllProgramsinMaven.TestNGConcepts@4df50bcc]" started-at="2023-12-15T21:23:25 IST" name="setup" finished-at="2023-12-15T21:23:37 IST" duration-ms="12360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogoPresence()[pri:1, instance:com.SDET.programs.SDETAllProgramsinMaven.TestNGConcepts@4df50bcc]" started-at="2023-12-15T21:23:37 IST" name="testLogoPresence" finished-at="2023-12-15T21:23:37 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogoPresence -->
+        <test-method signature="testRequestDemoButton()[pri:3, instance:com.SDET.programs.SDETAllProgramsinMaven.TestNGConcepts@4df50bcc]" started-at="2023-12-15T21:23:37 IST" name="testRequestDemoButton" finished-at="2023-12-15T21:23:37 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRequestDemoButton -->
+        <test-method signature="testNavigationLinks()[pri:4, instance:com.SDET.programs.SDETAllProgramsinMaven.TestNGConcepts@4df50bcc]" started-at="2023-12-15T21:23:37 IST" name="testNavigationLinks" finished-at="2023-12-15T21:24:17 IST" duration-ms="39946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavigationLinks -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.SDET.programs.SDETAllProgramsinMaven.TestNGConcepts@4df50bcc]" started-at="2023-12-15T21:24:18 IST" name="teardown" finished-at="2023-12-15T21:24:19 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.SDET.programs.SDETAllProgramsinMaven.TestNGConcepts -->
+      <class name="com.SDET.programs.SDETAllProgramsinMaven.TestReadAndWriteData">
+        <test-method signature="testReadAndPrintExcel()[pri:0, instance:com.SDET.programs.SDETAllProgramsinMaven.TestReadAndWriteData@1a04f701]" started-at="2023-12-15T21:24:17 IST" name="testReadAndPrintExcel" finished-at="2023-12-15T21:24:18 IST" duration-ms="1015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReadAndPrintExcel -->
+      </class> <!-- com.SDET.programs.SDETAllProgramsinMaven.TestReadAndWriteData -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
